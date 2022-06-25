@@ -1,3 +1,3 @@
-# Global .github folder for all my projects
+# .github
 
-[Creating a default community health file - GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)
+Global .github folder for all my projects.
